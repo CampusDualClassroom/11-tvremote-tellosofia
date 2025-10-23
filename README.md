@@ -3,13 +3,11 @@
 Se implementará el contenido de una clase básica, con sus atributos y métodos, para luego ser instanciada desde otra clase.
 
 ### Objetivos
-* Dada la clase ``Exercise`` y ``TVRemote`` proporcionadas, desarrollar el contenido de la clase ``TVRremote`` para que el código
+* Dada la clase ``Exercise`` y ``TVRemote`` proporcionadas, desarrollar el contenido de la clase ``TVRemote`` para que el código
   proporcionado en el método ``main()`` funcione correctamente.
 
 ### Clases y métodos a implementar
-* La clase ``TVRemote`` proporcionada está vacía. Será necesario copiar todo lo que se muestra en la diapositiva número 29 del temario
-  de POO dentro de esta clase: sus atributos y métodos. De esta forma, al ejecutar el código proporcionado del ``main()`` de la clase
-  ``Exercise+`` no habrá ningún error.
+* La clase ``TVRemote`` proporcionada tiene un esqueleto mínimo.
 * A mayores del código proporcionado en el ``main()``, también dentro de este método, será necesario:
   * Encender la TV
   * Subir un canal
